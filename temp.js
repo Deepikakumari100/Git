@@ -3,5 +3,5 @@ console.log(y);
 
 
 
-let c="temp file variable";
+let c="temp file";
 console.log(c);
